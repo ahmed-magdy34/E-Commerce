@@ -1,0 +1,32 @@
+/* Register.css */
+
+.social-login .btn {
+    border-radius: 20px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+.social-login .btn:hover {
+    background-color: #e7e7e7; 
+    color: #000; 
+}
+
+.social-login .btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #fff; 
+}
+
+.register {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
+}
+
+.form-control {
+    border-radius: 10px; 
+}
+
+h1 {
+    font-size: 2rem; 
+}
+
+.text-muted {
+    color: #6c757d; 
+}
